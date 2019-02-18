@@ -1,0 +1,12 @@
+*.pyc
+*~
+\#*
+*.out
+*.txt
+results/
+results_congress/
+nohup*
+\.\#*
+*.npy
+*.pdf
+*.sh
