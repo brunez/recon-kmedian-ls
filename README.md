@@ -4,7 +4,7 @@ This is a Python implementation of the local search algorithm for the Reconcilia
 
 The script expects pre-computed facility-facility and facility-client distance matrices, either in Numpy or in text format.
 
-To compute shortest paths in large graphs, I recommend https://github.com/suhastheju/pace-2018-exact.
+To compute shortest paths in large graphs, I recommend https://github.com/suhastheju/shortest-path.
 
 ## Citation request
 If you use this code in your research, please be so kind as to cite the following paper:
